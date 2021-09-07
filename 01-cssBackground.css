@@ -1,0 +1,21 @@
+div{
+    width: 80%;
+    margin: auto;
+    height: 100px;
+}
+.bgcolor{
+    background-color: #EABFFA;
+}
+.bgimage{
+    background-image:url(https://i.pinimg.com/originals/ae/a3/5c/aea35c5809b5108638688cbf0444dcad.jpg) ;
+}
+.bgposition{
+    height: 350px;
+    background: url(https://www.petanikode.com/img/css/css.png);
+}
+.gradient1{
+    background: linear-gradient(to right, red, yellow, green);
+}
+.gradient2{
+    background: linear-gradient(red, yellow, green);
+}

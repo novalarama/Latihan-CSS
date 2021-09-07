@@ -1,0 +1,25 @@
+<style media="screen">
+.maroon {color : maroon; }
+.navy { color: blue; }
+.indigo {color: #5D76CB; }
+.spacing{ letter-spacing: 2px; word-spacing: 5px; line-
+height: 20px;
+/* silahkan berkreasi dengan merubah value dari setiap
+properi */
+}
+.uppercase{ text-transform:uppercase; }
+.lowercase{ text-transform:lowercase; }
+.capitalize{ text-transform:capitalize; }
+.paragraf{
+font-family: &quot;Courier New&quot;;
+font-size: 20px;
+
+}
+ul{
+list-style-type:circle;
+}
+li{
+font-family: &quot;Tahoma&quot;;
+font-size: 15px;
+}
+</style>
